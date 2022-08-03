@@ -1,0 +1,1 @@
+A bot that implements the Never losing formula
